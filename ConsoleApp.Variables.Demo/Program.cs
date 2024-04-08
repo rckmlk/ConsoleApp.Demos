@@ -2,7 +2,7 @@
 // declare variables
 string name = string.Empty;
 int age = 0;
-int retirementAge = 67;
+int retirementAge = 70;
 
 Console.WriteLine("Enter your name:");
 name = Console.ReadLine();
